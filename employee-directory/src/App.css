@@ -11,6 +11,7 @@ p {
   margin-top: auto;
   margin-bottom: auto;
   font-family: 'Staatliches', sans-serif;
+  color:white;
 }
 
 .button {
@@ -22,14 +23,19 @@ p {
   border: none;
   height: 45px;
   margin: 5px;
+  box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
 }
 
 button:hover {
   background-color: white;
   color: rgb(109, 198, 198);
   transition: 0.3s;
+  border: none;
 }
 
+button:active{
+  border-color: rgb(109, 198, 198);
+}
 .grid{
   margin-top: 50px;
 }

@@ -5,9 +5,8 @@ import Card from "./Components/Card";
 import data from "./data/employeedata.json";
 
 function App() {
+  //use cards as the state and pass it the data from our file
   const [cards, setCards] = useState(data);
-
-
 
   //Sort the table by at least one category
   //sortByName
@@ -58,9 +57,16 @@ function sortByTenure() {
  }
 
 // filter remote
-//   function filterRemote (){
-   
-//  }
+function filterRemote (){
+  const filteredArray = [];
+  for (let i = 0; i < data.length; i++){
+ const employee = data[i];
+ if (employee.workPlace === "Remote"){
+   filteredArray.push(employee);
+   }
+ }
+ setCards(filteredArray);
+}
 
 
 
@@ -104,7 +110,7 @@ function sortByTenure() {
               In Office
             </button>
             <button
-              // onClick={() => filterRemote()}
+              onClick={() => filterRemote()}
               className="button"
             >
               Remote
