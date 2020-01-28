@@ -2,6 +2,7 @@ import React, { useState, } from "react";
 import "./App.css";
 import Header from "./Components/Header";
 import Card from "./Components/Card";
+import Footer from "./Components/Footer";
 import data from "./data/employeedata.json";
 
 function App() {
@@ -128,6 +129,7 @@ function filterRemote (){
           </div>
         </div>
       </div>
+      <Footer />
     </div>
   );
 }
