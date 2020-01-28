@@ -45,8 +45,28 @@ function sortByTenure() {
   }
 
 // Filter the users by at least one property.
+// filter In Office
+ function filterInOffice (){
+   const filteredArray = [];
+   for (let i = 0; i < data.length; i++){
+  const employee = data[i];
+  if (employee.workPlace === "In Office"){
+    filteredArray.push(employee);
+    }
+  }
+  setCards(filteredArray);
+ }
+
+// filter remote
+//   function filterRemote (){
+   
+//  }
 
 
+
+
+
+//clears filters and displays all employees
   function filterNone() {
     setCards(data);
   }
@@ -79,7 +99,7 @@ function sortByTenure() {
           <div className="col-4 button-col">
             <p className="button-label">Filter by:</p>
             <button 
-            // onClick={() => filterInOffice()} 
+            onClick={() => filterInOffice()} 
             className="button ">
               In Office
             </button>
