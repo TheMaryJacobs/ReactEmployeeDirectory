@@ -4,107 +4,119 @@
       "lastName": "Jacobs",
       "role": "Supreme Leader",
       "employeeID": "lGj6Dczn",
-      "gender": "Female",
+      "pronouns": "She/Her",
       "email": "TheMaryJacobs@gmail.com",
-      "age": 28
+      "tenure": 2009,
+      "workPlace": "In Office"
     },
     {
       "firstName": "Zach",
       "lastName": "Duff",
       "role": "CFO",
       "employeeID": "6PKe7Znd",
-      "gender": "Male",
+      "pronouns": "He/Him",
       "email": "Duff@email.com",
-      "age": 31
+      "tenure": 2002,
+      "workPlace": "Remote"
     },
     {
       "firstName": "Courtney",
       "lastName": "Scott",
       "role": "Operations Director",
       "employeeID": "ifgK0qW9",
-      "gender": "Female",
+      "pronouns": "She/Her",
       "email": "Boss@crouty.com",
-      "age": 27
+      "workPlace": "In Office",
+      "tenure": 2013
     },
     {
       "firstName": "Katie",
       "lastName": "Quattrini",
       "role": "Human Resources",
       "employeeID": "KTQD3hnF",
-      "gender": "Female",
+      "pronouns": "She/Her",
       "email": "KTQ@TheBigQ.com",
-      "age": 31
+      "workPlace": "Remote",
+      "tenure": 2018
     },
     {
       "firstName": "Baby",
       "lastName": "Ivycat",
-      "role": "Small Cat",
+      "role": "Small Office Cat",
       "employeeID": "mewgGMw",
-      "gender": "Femal",
+      "pronouns": "She/Her",
       "email": "BEEEEEB@lilcat.com",
-      "age": 16
+      "workPlace": "In Office",
+      "tenure": 2020
     },
     {
       "firstName": "Alex",
       "lastName": "Johnson",
       "role": "Director of Human Resources",
       "employeeID": "filEOXlw",
-      "gender": "N/A",
+      "pronouns": "They/Them",
       "email": "Alex.Johnson@email.com",
-      "age": 22
+      "workPlace": "Remote",
+      "tenure": 1999
     },
     {
       "firstName": "Suzanne",
       "lastName": "Sapphire",
       "role": "Feline Work Mom",
       "employeeID": "tkxVyJom",
-      "gender": "Female",
+      "pronouns": "She/Her",
       "email": "SOOOOZ@cats.com",
-      "age": 61
+      "workPlace": "In Office",
+      "tenure": 1985
     },
     {
       "firstName": "Shmacaulay",
       "lastName": "Shmulkin",
       "role": "Overnight Security",
       "employeeID": "jjh32837",
-      "gender": "Male",
+      "pronouns": "He/Him",
       "email": "atmyhousebymyself@SOS.com",
-      "age": 45
+      "workPlace": "Remote",
+      "tenure": 1988
     },
     {
       "firstName": "Peter",
       "lastName": "Piper",
       "role": "Pepper Picker/Pickeler",
       "employeeID": "rawZbjEZ",
-      "gender": "Male",
+      "pronouns": "He/Him",
       "email": "?????",
-      "age": 77
+      "workPlace": "In Office",
+      "tenure": 1965
     },
     {
       "firstName": "King",
       "lastName": "Trident",
       "role": "King of the 7 Seas",
       "employeeID": "CCCCCCC7",
-      "gender": "Male",
+      "pronouns": "He/Him",
       "email": "UndaDaSea@gmail.com",
-      "age": 1286
+      "workPlace": "Remote",
+      "tenure": 1902
     },
     {
-      "firstName": "Margo",
-      "lastName": "Tenembaum",
+      "firstName": "Ryn",
+      "lastName": "Smith",
       "role": "Designer",
       "employeeID": "0QrCrq3T",
-      "gender": "Non-binary",
-      "email": "9fingers@gmail.com",
-      "age": 17
+      "pronouns": "Ze/Zir",
+      "email": "AESTHETIC@email.com",
+      "workPlace": "In Office",
+      "tenure": 2004
     },
     {
       "firstName": "Nicolas",
-      "lastName": "Flemmel",
+      "lastName": "Flamel",
       "role": "Alchemist / Sorcerer",
       "employeeID": "g8jJTwJT",
-      "gender": "Male",
-      "email": "MagicMordecai@spells.com",
-      "age": 129
+      "pronouns": "He/Him",
+      "email": "SorcerersStone@rocks.com",
+      "workPlace": "Remote",
+      "tenure": 1335
     }
   ]
