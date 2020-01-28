@@ -1,41 +1,68 @@
 .Card {
     background-color: rgba(0, 0, 0, 0.646);
-    padding: 15px;
+    padding: 25px;
     min-width: 150px;
     margin-top: 15px;
     margin-bottom: 15px;
-    word-wrap: break-word;
-    font-family: 'Bebas Neue', sans-serif;
-    align-content: center;
+    /* word-wrap: break-word; */
+    /* align-content: center; */
   }
 
   .data{
-    text-align: center;
-    justify-content: center;
+    /* text-align: center;
+    justify-content: center; */
   }
   
+  .dataRow {
+   Display: inline-flex;
+   
+  }
+
+  .dataType {
+    text-align: left;
+      font-size: 18px;
+    font-family: 'Oswald', sans-serif !important;
+    text-align: left !important;
+    color:rgb(109, 198, 198);
+  }
+
+   .dataCol {
+    text-align: right !important;
+    font-size: 20px;
+  font-family: 'Roboto Slab', serif;
+  word-wrap: break-word;
+  text-align: right !important;
+  color: white;
+  padding-left: 15px;
+  }
+  
+
   .Name {
     color: rgb(109, 198, 198);
-    font-size: 42px;
-    font-family: 'Bebas Neue', sans-serif;
+    font-size: 38px;
+    font-family: 'Staatliches', cursive;
     margin-bottom: 15px;
   }
 
 
- h3{
-  font-size: 30px;
-  font-family: 'Bebas Neue', sans-serif;
+ /* h3{
+  font-size: 20px;
+  font-family: 'Roboto Slab', serif;
+  word-wrap: break-word;
+  text-align: right !important;
   color: white;
  }
 
  small{
-   font-size: 18px;
-  font-family: 'Playfair Display', serif !important;
- }
+  font-size: 18px;
+  font-family: 'Oswald', sans-serif !important;
+  text-align: left !important;
+  color:rgb(109, 198, 198);
+ }*/
 
 h4{
-  font-size: 24px;
-  font-family: 'Bebas Neue', sans-serif;
+  font-size: 16px !important;
+  font-family: 'Roboto Slab', serif;
   color: white;
 }
 

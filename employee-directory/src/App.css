@@ -10,14 +10,15 @@ p {
 .button-label {
   margin-top: auto;
   margin-bottom: auto;
-  font-family: 'Bebas Neue', sans-serif;
+  font-family: 'Staatliches', sans-serif;
 }
 
 .button {
   min-width: 124px;
   font-size: 16px;
   background-color: rgb(109, 198, 198);
-  font-family: 'Bebas Neue', sans-serif;
+  font-family: 'Roboto Slab', serif;
+  color:white;
   border: none;
   height: 45px;
   margin: 5px;

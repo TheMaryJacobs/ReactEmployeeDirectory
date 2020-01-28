@@ -9,16 +9,16 @@
   h1 {
     align-items: center;
     justify-content: center;
-    font-family: 'Bebas Neue', sans-serif;
+    font-family: 'Staatliches', sans-serif;
     color: white;
     text-align: center;
-    font-size: 125px;
+    font-size: 100px;
   }
 
   h2{
     align-items: center;
     justify-content: center;
-    font-family: 'Bebas Neue', sans-serif;
+    font-family: 'Roboto Slab', serif;
     color: white;
     text-align: center;
     font-size: 50px;
