@@ -12,10 +12,11 @@ function Card({ employee }) {
         </h1>
         <div className="data">
         <h3><small>Role | </small>{employee.role}</h3>
-        <h3><small>Pronouns | </small>{employee.gender}</h3>
-        <h3><small>Since | </small>{employee.age}</h3>
+        <h3><small>Pronouns | </small>{employee.pronouns}</h3>
+        <h3><small>Since | </small>{employee.tenure}</h3>
         <h3><small>Email | </small>{employee.email}</h3>
         <h3><small>ID | </small>{employee.employeeID}</h3>
+        <h4>Work Place |{employee.workPlace}</h4>
         </div>
         </div>
     </div>
