@@ -1,0 +1,110 @@
+[
+    {
+      "firstName": "Mary",
+      "lastName": "Jacobs",
+      "role": "Supreme Leader",
+      "employeeID": "lGj6Dczn",
+      "gender": "Female",
+      "email": "TheMaryJacobs@gmail.com",
+      "age": 28
+    },
+    {
+      "firstName": "Zach",
+      "lastName": "Duff",
+      "role": "CFO",
+      "employeeID": "6PKe7Znd",
+      "gender": "Male",
+      "email": "Duff@email.com",
+      "age": 31
+    },
+    {
+      "firstName": "Courtney",
+      "lastName": "Scott",
+      "role": "Operations Director",
+      "employeeID": "ifgK0qW9",
+      "gender": "Female",
+      "email": "Boss@crouty.com",
+      "age": 27
+    },
+    {
+      "firstName": "Katie",
+      "lastName": "Quattrini",
+      "role": "Human Resources",
+      "employeeID": "KTQD3hnF",
+      "gender": "Female",
+      "email": "KTQ@TheBigQ.com",
+      "age": 31
+    },
+    {
+      "firstName": "Baby",
+      "lastName": "Ivycat",
+      "role": "Small Cat",
+      "employeeID": "mewgGMw",
+      "gender": "Femal",
+      "email": "BEEEEEB@lilcat.com",
+      "age": 16
+    },
+    {
+      "firstName": "Alex",
+      "lastName": "Johnson",
+      "role": "Director of Human Resources",
+      "employeeID": "filEOXlw",
+      "gender": "N/A",
+      "email": "Alex.Johnson@email.com",
+      "age": 22
+    },
+    {
+      "firstName": "Suzanne",
+      "lastName": "Sapphire",
+      "role": "Feline Work Mom",
+      "employeeID": "tkxVyJom",
+      "gender": "Female",
+      "email": "SOOOOZ@cats.com",
+      "age": 61
+    },
+    {
+      "firstName": "Shmacaulay",
+      "lastName": "Shmulkin",
+      "role": "Overnight Security",
+      "employeeID": "jjh32837",
+      "gender": "Male",
+      "email": "atmyhousebymyself@SOS.com",
+      "age": 45
+    },
+    {
+      "firstName": "Peter",
+      "lastName": "Piper",
+      "role": "Pepper Picker/Pickeler",
+      "employeeID": "rawZbjEZ",
+      "gender": "Male",
+      "email": "?????",
+      "age": 77
+    },
+    {
+      "firstName": "King",
+      "lastName": "Trident",
+      "role": "King of the 7 Seas",
+      "employeeID": "CCCCCCC7",
+      "gender": "Male",
+      "email": "UndaDaSea@gmail.com",
+      "age": 1286
+    },
+    {
+      "firstName": "Margo",
+      "lastName": "Tenembaum",
+      "role": "Designer",
+      "employeeID": "0QrCrq3T",
+      "gender": "Non-binary",
+      "email": "9fingers@gmail.com",
+      "age": 17
+    },
+    {
+      "firstName": "Nicolas",
+      "lastName": "Flemmel",
+      "role": "Alchemist / Sorcerer",
+      "employeeID": "g8jJTwJT",
+      "gender": "Male",
+      "email": "MagicMordecai@spells.com",
+      "age": 129
+    }
+  ]

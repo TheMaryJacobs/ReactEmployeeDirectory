@@ -1,0 +1,47 @@
+.Card {
+    background-color: rgba(0, 0, 0, 0.646);
+    padding: 15px;
+    min-width: 150px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    word-wrap: break-word;
+    font-family: 'Bebas Neue', sans-serif;
+    align-content: center;
+  }
+
+  .data{
+    text-align: center;
+    justify-content: center;
+  }
+  
+  .Name {
+    color: rgb(170, 255, 0);
+    font-size: 42px;
+    font-family: 'Bebas Neue', sans-serif;
+    margin-bottom: 15px;
+  }
+
+
+ h3{
+  font-size: 30px;
+  font-family: 'Bebas Neue', sans-serif;
+  color: white;
+ }
+
+ small{
+   font-size: 18px;
+  font-family: 'Playfair Display', serif !important;
+ }
+
+h4{
+  font-size: 24px;
+  font-family: 'Bebas Neue', sans-serif;
+  color: white;
+}
+
+ p{
+  font-family: 'Playfair Display', serif;
+  font-size: 18px;
+  padding-top: 1px;
+  color: white;
+  }

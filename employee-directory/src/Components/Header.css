@@ -1,0 +1,17 @@
+.header {
+    padding: 25px, 25px;
+    min-height: 8vh;
+    height: 150px;
+    margin-bottom: 50px;
+
+  }
+  
+  h1 {
+    padding-top: 25px;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Bebas Neue', sans-serif;
+    color: white;
+    text-align: center;
+    font-size: 125px;
+  }
