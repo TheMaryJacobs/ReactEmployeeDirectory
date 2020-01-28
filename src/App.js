@@ -80,8 +80,8 @@ function filterRemote (){
   return (
     <div className="App">
       <Header />
-      <section className="container main">
-        <div className="row">
+      
+        <div className="row button-row">
           <div className="col-4 button-col">
             <p className="button-label">Sort by:</p>
             <button
@@ -115,9 +115,9 @@ function filterRemote (){
             >
               Remote
             </button>
-            
           </div>
         </div>
+        <div className="container-main">
         <div className="row grid">
           <div className="col-12">
             <div className="row employee-cards">
@@ -127,7 +127,7 @@ function filterRemote (){
             </div>
           </div>
         </div>
-      </section>
+      </div>
     </div>
   );
 }
