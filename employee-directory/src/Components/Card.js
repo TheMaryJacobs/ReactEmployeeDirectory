@@ -32,11 +32,6 @@ function Card({ employee }) {
           </div>
           <br/>
         <div className="dataRow">
-          <small className="dataType">ID | </small>
-          <h3 className="dataCol"> {employee.employeeID}</h3>
-          </div>
-          <br/>
-        <div className="dataRow">
           <small className="dataType">Work Place |</small>
           <h3 className="dataCol"> {employee.workPlace}</h3>
           </div>

@@ -5,7 +5,7 @@ function Header() {
   return (
     <header className="header container">
       <h2>React</h2>
-      <h1>Company Directory</h1>
+      <h1>Employee Directory</h1>
     </header>
   );
 }

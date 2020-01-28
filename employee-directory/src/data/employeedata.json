@@ -3,7 +3,6 @@
       "firstName": "Mary",
       "lastName": "Jacobs",
       "role": "Supreme Leader",
-      "employeeID": "lGj6Dczn",
       "pronouns": "She/Her",
       "email": "TheMaryJacobs@gmail.com",
       "since": 2009,
@@ -13,7 +12,6 @@
       "firstName": "Zach",
       "lastName": "Duff",
       "role": "CFO",
-      "employeeID": "6PKe7Znd",
       "pronouns": "He/Him",
       "email": "Duff@email.com",
       "since": 2002,
@@ -23,7 +21,6 @@
       "firstName": "Courtney",
       "lastName": "Scott",
       "role": "Operations Director",
-      "employeeID": "ifgK0qW9",
       "pronouns": "She/Her",
       "email": "Boss@crouty.com",
       "workPlace": "In Office",
@@ -32,8 +29,7 @@
     {
       "firstName": "Katie",
       "lastName": "Quattrini",
-      "role": "Human Resources",
-      "employeeID": "KTQD3hnF",
+      "role": "Mammal Manager",
       "pronouns": "She/Her",
       "email": "KTQ@TheBigQ.com",
       "workPlace": "Remote",
@@ -43,7 +39,6 @@
       "firstName": "Baby",
       "lastName": "Ivycat",
       "role": "Small Office Cat",
-      "employeeID": "mewgGMw",
       "pronouns": "She/Her",
       "email": "BEEEEEB@lilcat.com",
       "workPlace": "In Office",
@@ -52,8 +47,7 @@
     {
       "firstName": "Alex",
       "lastName": "Johnson",
-      "role": "Director of Human Resources",
-      "employeeID": "filEOXlw",
+      "role": "They're in Charge",
       "pronouns": "They/Them",
       "email": "Alex.Johnson@email.com",
       "workPlace": "Remote",
@@ -63,29 +57,26 @@
       "firstName": "Suzanne",
       "lastName": "Sapphire",
       "role": "Feline Work Mom",
-      "employeeID": "tkxVyJom",
       "pronouns": "She/Her",
       "email": "SOOOOZ@cats.com",
       "workPlace": "In Office",
       "since": 1985
     },
     {
-      "firstName": "Shmacaulay",
-      "lastName": "Shmulkin",
+      "firstName": "Kevin",
+      "lastName": "McCallister",
       "role": "Overnight Security",
-      "employeeID": "jjh32837",
       "pronouns": "He/Him",
-      "email": "atmyhousebymyself@SOS.com",
+      "email": "Alone@home.com",
       "workPlace": "Remote",
-      "since": 1988
+      "since": 1990
     },
     {
       "firstName": "Peter",
       "lastName": "Piper",
       "role": "Pepper Picker/Pickeler",
-      "employeeID": "rawZbjEZ",
       "pronouns": "He/Him",
-      "email": "?????",
+      "email": "Peter@PicksPeppers.com",
       "workPlace": "In Office",
       "since": 1965
     },
@@ -93,7 +84,6 @@
       "firstName": "King",
       "lastName": "Trident",
       "role": "King of the 7 Seas",
-      "employeeID": "CCCCCCC7",
       "pronouns": "He/Him",
       "email": "UndaDaSea@gmail.com",
       "workPlace": "Remote",
@@ -103,7 +93,6 @@
       "firstName": "Ryn",
       "lastName": "Smith",
       "role": "Designer",
-      "employeeID": "0QrCrq3T",
       "pronouns": "Ze/Zir",
       "email": "AESTHETIC@email.com",
       "workPlace": "In Office",
@@ -113,10 +102,63 @@
       "firstName": "Nicolas",
       "lastName": "Flamel",
       "role": "Alchemist / Sorcerer",
-      "employeeID": "g8jJTwJT",
       "pronouns": "He/Him",
       "email": "SorcerersStone@rocks.com",
       "workPlace": "Remote",
       "since": 1335
+    },
+    {
+      "firstName": "Dwight",
+      "lastName": "Schrute",
+      "role": "Asst. Regional Manager",
+      "pronouns": "He/Him",
+      "email": "Beets@SchruteFarms.com",
+      "workPlace": "In Office",
+      "since": 1977
+    },
+    {
+      "firstName": "Creed",
+      "lastName": "Bratton",
+      "role": "????????",
+      "pronouns": "He/Him",
+      "email": "Redrum@Creed.com",
+      "workPlace": "Remote",
+      "since": 1969
+    },
+    {
+      "firstName": "Toby",
+      "lastName": "Flenderson",
+      "role": "Sr. HR Manager",
+      "pronouns": "He/Him",
+      "email": "HR@DunderMifflin.com",
+      "workPlace": "In Office",
+      "since": 1979
+    },
+    {
+      "firstName": "Moira",
+      "lastName": "Rose",
+      "role": "City Councilwoman",
+      "pronouns": "She/Her",
+      "email": "MoiraRose@me.com",
+      "workPlace": "Remote",
+      "since": 1956
+    },
+    {
+      "firstName": "David",
+      "lastName": "Rose",
+      "role": "Brand Manager",
+      "pronouns": "He/Him",
+      "email": "Hi@RoseApothecary.com",
+      "workPlace": "In Office",
+      "since": 1989
+    },
+    {
+      "firstName": "Roland",
+      "lastName": "Schitt",
+      "role": "Town Mayor",
+      "pronouns": "He/Him",
+      "email": "Info@SchittsCreek.com",
+      "workPlace": "In Office",
+      "since": 1964
     }
   ]
