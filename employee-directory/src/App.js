@@ -4,6 +4,52 @@ import Header from "./Components/Header";
 import Card from "./Components/Card";
 import data from "./data/employeedata.json";
 
+function App() {
+  const [cards, setCards] = useState(data);
+
+
+
+  //Sort the table by at least one category
+  //sortByName
+  function sortByName() {
+    let sortedArray = cards;
+    sortedArray.sort(function(a, b) {
+      var employeeA = a.lastName;
+      var employeeB = b.lastName;
+      if (employeeA < employeeB) {
+        return -1;
+      }
+      if (employeeA > employeeB) {
+        return 1;
+      }
+      return 0;
+    });
+    setCards([...sortedArray]);
+  }
+
+//sort by tenure
+function sortByTenure() {
+    let sortedArray = cards;
+    sortedArray.sort(function(a, b) {
+      var employeeA = a.since;
+      var employeeB = b.since;
+      if (employeeA < employeeB) {
+        return -1;
+      }
+      if (employeeA > employeeB) {
+        return 1;
+      }
+      return 0;
+    });
+    setCards([...sortedArray]);
+  }
+
+// Filter the users by at least one property.
+
+
+  function filterNone() {
+    setCards(data);
+  }
 
   return (
     <div className="App">
@@ -13,19 +59,19 @@ import data from "./data/employeedata.json";
           <div className="col-4 button-col">
             <p className="button-label">Sort by:</p>
             <button
-              // onClick={() => sortByName()}
+              onClick={() => sortByName()}
               className="button">
               Name
             </button>
             <button
-              // onClick={() => sortByTenure()}
+              onClick={() => sortByTenure()}
               className="button">
               Time Employeed
             </button>
           </div>
           <div className="col-4 button-col">
           <button 
-          // onClick={() => filterNone()} 
+          onClick={() => filterNone()} 
           className="button">
               View All
             </button>
@@ -33,15 +79,15 @@ import data from "./data/employeedata.json";
           <div className="col-4 button-col">
             <p className="button-label">Filter by:</p>
             <button 
-            // onClick={() => filterOver18()} 
+            // onClick={() => filterInOffice()} 
             className="button ">
-              18 +
+              In Office
             </button>
             <button
-              // onClick={() => filterUnder18()}
+              // onClick={() => filterRemote()}
               className="button"
             >
-              - 18
+              Remote
             </button>
             
           </div>
@@ -58,6 +104,6 @@ import data from "./data/employeedata.json";
       </section>
     </div>
   );
-// }
+}
 
 export default App;

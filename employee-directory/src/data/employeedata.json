@@ -6,7 +6,7 @@
       "employeeID": "lGj6Dczn",
       "pronouns": "She/Her",
       "email": "TheMaryJacobs@gmail.com",
-      "tenure": 2009,
+      "since": 2009,
       "workPlace": "In Office"
     },
     {
@@ -16,7 +16,7 @@
       "employeeID": "6PKe7Znd",
       "pronouns": "He/Him",
       "email": "Duff@email.com",
-      "tenure": 2002,
+      "since": 2002,
       "workPlace": "Remote"
     },
     {
@@ -27,7 +27,7 @@
       "pronouns": "She/Her",
       "email": "Boss@crouty.com",
       "workPlace": "In Office",
-      "tenure": 2013
+      "since": 2013
     },
     {
       "firstName": "Katie",
@@ -37,7 +37,7 @@
       "pronouns": "She/Her",
       "email": "KTQ@TheBigQ.com",
       "workPlace": "Remote",
-      "tenure": 2018
+      "since": 2018
     },
     {
       "firstName": "Baby",
@@ -47,7 +47,7 @@
       "pronouns": "She/Her",
       "email": "BEEEEEB@lilcat.com",
       "workPlace": "In Office",
-      "tenure": 2020
+      "since": 2020
     },
     {
       "firstName": "Alex",
@@ -57,7 +57,7 @@
       "pronouns": "They/Them",
       "email": "Alex.Johnson@email.com",
       "workPlace": "Remote",
-      "tenure": 1999
+      "since": 1999
     },
     {
       "firstName": "Suzanne",
@@ -67,7 +67,7 @@
       "pronouns": "She/Her",
       "email": "SOOOOZ@cats.com",
       "workPlace": "In Office",
-      "tenure": 1985
+      "since": 1985
     },
     {
       "firstName": "Shmacaulay",
@@ -77,7 +77,7 @@
       "pronouns": "He/Him",
       "email": "atmyhousebymyself@SOS.com",
       "workPlace": "Remote",
-      "tenure": 1988
+      "since": 1988
     },
     {
       "firstName": "Peter",
@@ -87,7 +87,7 @@
       "pronouns": "He/Him",
       "email": "?????",
       "workPlace": "In Office",
-      "tenure": 1965
+      "since": 1965
     },
     {
       "firstName": "King",
@@ -97,7 +97,7 @@
       "pronouns": "He/Him",
       "email": "UndaDaSea@gmail.com",
       "workPlace": "Remote",
-      "tenure": 1902
+      "since": 1902
     },
     {
       "firstName": "Ryn",
@@ -107,7 +107,7 @@
       "pronouns": "Ze/Zir",
       "email": "AESTHETIC@email.com",
       "workPlace": "In Office",
-      "tenure": 2004
+      "since": 2004
     },
     {
       "firstName": "Nicolas",
@@ -117,6 +117,6 @@
       "pronouns": "He/Him",
       "email": "SorcerersStone@rocks.com",
       "workPlace": "Remote",
-      "tenure": 1335
+      "since": 1335
     }
   ]

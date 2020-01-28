@@ -16,7 +16,7 @@ p {
 .button {
   min-width: 124px;
   font-size: 16px;
-  background-color:#aaff00;
+  background-color: rgb(109, 198, 198);
   font-family: 'Bebas Neue', sans-serif;
   border: none;
   height: 45px;
@@ -24,8 +24,8 @@ p {
 }
 
 button:hover {
-  background-color: #2b125e;
-  color: rgb(170, 255, 0);
+  background-color: white;
+  color: rgb(109, 198, 198);
   transition: 0.3s;
 }
 

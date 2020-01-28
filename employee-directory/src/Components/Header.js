@@ -4,7 +4,8 @@ import "./Header.css";
 function Header() {
   return (
     <header className="header container">
-      <h1>COMPANY NAME</h1>
+      <h2>React</h2>
+      <h1>Company Directory</h1>
     </header>
   );
 }
