@@ -5,7 +5,7 @@ This is an employee directory built with react. It can be used to sort through e
 ReactJS, Node, Netlify, VSCode, MacBook Pro
 
 ## Watch It Work 
-!(Employee Directory)[https://github.com/TheMaryJacobs/ReactEmployeeDirectory/blob/master/src/ezgif.com-video-to-gif%20(1).gif?raw=true]
+![Employee Directory](https://github.com/TheMaryJacobs/ReactEmployeeDirectory/blob/master/src/ezgif.com-video-to-gif%20(1).gif?raw=true)
 
 ## Challenges 
 The most challenging part was trying to connect an API, so I wound up building my own data set as Paul. H suggested. 
