@@ -81,9 +81,10 @@ function filterRemote (){
   return (
     <div className="App">
       <Header />
-      
-        <div className="row button-row">
-          <div className="col-4 button-col">
+      <div className="row labels">
+      </div>
+        <div className="row d-flex flex-wrap button-row">
+          <div className="col button-col">
             <p className="button-label">Sort by:</p>
             <button
               onClick={() => sortByName()}
@@ -96,36 +97,33 @@ function filterRemote (){
               Time Employeed
             </button>
           </div>
-          <div className="col-4 button-col">
+          <div className="col button-col">
           <button 
           onClick={() => filterNone()} 
           className="button">
               View All
             </button>
           </div>
-          <div className="col-4 button-col">
+          <div className="col button-col">
             <p className="button-label">Filter by:</p>
             <button 
             onClick={() => filterInOffice()} 
-            className="button ">
-              In Office
+            className="button ">In Office
             </button>
             <button
               onClick={() => filterRemote()}
-              className="button"
-            >
-              Remote
+              className="button">Remote
             </button>
           </div>
         </div>
         <div className="container-main">
         <div className="row grid">
-          <div className="col-12">
-            <div className="row employee-cards">
+          {/* <div className="col"> */}
+            <div className="employee-cards">
               {cards.map(function(e) {
                 return <Card employee={e} />;
               })}
-            </div>
+            {/* </div> */}
           </div>
         </div>
       </div>

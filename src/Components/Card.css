@@ -1,13 +1,38 @@
+.row-cards{
+  display:flex;
+  flex-wrap: wrap;
+}
+
+@media only screen and (max-width: 600px) {
+  .row-cards{
+    width: 100%;
+    display: inline-block;
+  }
+}
+
+.labels{
+  display:flex;
+  flex-wrap: wrap;
+
+}
 .Card {
     background-color: rgba(255, 255, 255, 0.92);
     padding: 25px;
-    min-width: 150px;
+    min-width: 250px;
+    margin: auto;
     margin-top: 15px;
     margin-bottom: 15px;
     box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
     border-radius: 3px;
   }
   
+  @media only screen and (max-width: 1100px) {
+    .Card{
+      width: 100%;
+      display: inline-block;
+      min-width: 80%;
+    }
+  }
   .dataRow {
    Display: inline-flex;
    
@@ -37,6 +62,7 @@
     font-size: 38px;
     font-family: 'Staatliches', cursive;
     margin-bottom: 15px;
+    text-align: center;
   }
 
 

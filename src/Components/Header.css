@@ -4,18 +4,25 @@
     height: 175px;
     margin-bottom: 50px;
   }
+
   
-  h1 {
+  .title {
     align-items: center;
     justify-content: center;
     font-family: 'Staatliches', sans-serif;
     color: white;
     text-align: center;
     font-size: 100px;
+    letter-spacing: 6px;
+  }
+
+  @media only screen and (max-width: 992px) {
+    .title{
+      font-size: 55px;
+    }
   }
 
   
-
   h2{
     padding-top: 25px;
     align-items: center;
@@ -25,5 +32,5 @@
     text-align: center;
     font-size: 40px;
     text-transform: uppercase;
-    letter-spacing: 5px;
+    letter-spacing: 8px;
   }

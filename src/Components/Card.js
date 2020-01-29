@@ -5,11 +5,12 @@ import "./Card.css";
 function Card({ employee }) {
 
   return (
-    <div className="col-4">
+    <div className="col row-cards">
       <div className="Card">
         <h1 className="Name">
           {employee.firstName} {employee.lastName}
         </h1>
+        <hr></hr>
         <div className="data">
         <div className="dataRow">
           <small className="dataType">Role | </small>
